@@ -240,4 +240,6 @@ BUILD/K66F/GCC_ARM/main.o: main.cpp BUILD/K66F/GCC_ARM/mbed_config.h \
  /home/zunzzz/ee2405/mbed-os/platform/ScopedLock.h mbed_rpc/mbed_rpc.h \
  mbed_rpc/rpc.h mbed_rpc/Arguments.h \
  /home/zunzzz/ee2405/mbed-os-build/features/mbedtls/mbed-crypto/inc/mbedtls/platform.h \
- mbed_rpc/RPCVariable.h mbed_rpc/RPCFunction.h mbed_rpc/RpcClasses.h
+ mbed_rpc/RPCVariable.h mbed_rpc/RPCFunction.h mbed_rpc/RpcClasses.h \
+ /home/zunzzz/ee2405/mbed-os-build/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_port.h \
+ /home/zunzzz/ee2405/mbed-os-build/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_gpio.h
